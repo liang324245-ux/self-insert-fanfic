@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "mengnv-story.skill"
+  name = "mengnv-story"
+  description = "以电影镜头语言创作沉浸式梦女短篇情感叙事，支持宿命型、治愈型、虐心型、甜宠型、极限拉扯型、暗黑带感型六种风格；提供五段式标准写作结构、13条通用约束及各类型详细写作要点与避坑指南，配套6篇完整风格样本供参考"
+  project_name = "梦女文创作技能"
+  project_description = "梦女文创作，六种风格随心写"
